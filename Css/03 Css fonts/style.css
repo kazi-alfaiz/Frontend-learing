@@ -1,0 +1,19 @@
+@font-face{
+    src: url(font/BBHSansBartle-Regular.ttf);
+    font-family: BBHSansBartle-Regular;
+}
+
+@font-face {
+    font-family:() ;
+    src: url(font/Playwrite_DE_Grund_Guides/PlaywriteDEGrundGuides-Regular.ttf);
+}
+
+
+h1{
+    font-family: BBHSansBartle-Regular,Verdana ,arial;
+}
+p{
+    font-family: PlaywriteDEGrundGuides-Regular, "lucida console","courier new";
+    font-size: 1em;
+    font-style: italic;
+}
